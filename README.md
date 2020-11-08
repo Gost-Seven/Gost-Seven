@@ -4,4 +4,6 @@
 
 🖥️ Desenvolvedor Python.
 
+🖥️ Desenvolvedor C++.
+
 😌 Fique de olho nos meus projetos!
