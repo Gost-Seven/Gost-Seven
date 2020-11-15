@@ -4,6 +4,6 @@
 
 🖥️ Desenvolvedor Python.
 
-🖥️ Desenvolvedor C++.
+🖥️ Learning HACKING!
 
 😌 Fique de olho nos meus projetos!
